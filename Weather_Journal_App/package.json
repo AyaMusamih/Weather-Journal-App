@@ -1,0 +1,16 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "A simple weather journal app using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "author": "Aya Musamih",
+  "license": "ISC"
+}
+
